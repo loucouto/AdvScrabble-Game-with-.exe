@@ -1,0 +1,67 @@
+{
+"TipoCuadrado" :[
+	{
+		"id_tipo_cuadrado" : 1,
+		"nombre" : "Cuadrado Amarillo",
+		"descripcion" : "Multiplica el puntaje del bloque x2",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 2,
+		"nombre" : "Cuadrado Azul",
+		"descripcion" : "Multiplica el puntaje de una ficha x2",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 3,
+		"nombre" : "Cuadrado Estrella",
+		"descripcion" : "Cuadrado en donde se empieza una partida",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 4,
+		"nombre" : "Cuadrado Papel",
+		"descripcion" : "Cuadrado bloqueado hasta que se forme un bloque adyacente",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 5,
+		"nombre" : "Cuadrado Rojo",
+		"descripcion" : "Multiplica el puntaje del bloque x3",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 6,
+		"nombre" : "Cuadrado Verde",
+		"descripcion" : "Multiplica el puntaje de la ficha x2",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguno",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_tipo_cuadrado" : 7,
+		"nombre" : "Cuadrado Simple",
+		"descripcion" : "Cuadrado en donde se colocan las fichas sin ningun beneficio adicional",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	}
+]
+}

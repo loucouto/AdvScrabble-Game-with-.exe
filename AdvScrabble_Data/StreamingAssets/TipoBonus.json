@@ -1,0 +1,26 @@
+{
+"TipoBonus":[
+	{
+		"id_type_bonus" : 1,
+		"name" : "Nine Points",
+		"description" : "Exchange one piece from the board to another piece with the same number and score 9"
+	},
+	{
+		"id_type_bonus" : 2,
+		"name" : "Swap",
+		"description" : "Swap one piece to another whose is in the queue"
+		
+	},
+	{
+		"id_type_bonus" : 3,
+		"name" : "Green Square",
+		"description" : "Exchange one blue square to another green square"
+	},
+    {
+		"id_type_bonus" : 4,
+		"name" : "Undo Movement",
+		"description" : "Undo the last movement of the piece"
+	}
+	
+]
+}

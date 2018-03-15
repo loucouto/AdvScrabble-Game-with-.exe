@@ -1,0 +1,16 @@
+{
+"Mapa":[
+	{
+		"id_game" : 1,
+		"id_map" : 1,
+		"name" : "Mapa Medieval",
+		"description" : "Mapa que ambienta la era medieval"
+	},
+	{
+		"id_game" : 1,
+		"id_map" : 2,
+		"name" : "Mapa Antigua Grecia",
+		"description" : "Mapa que ambienta la era de la antigua grecia"
+	}
+]
+}

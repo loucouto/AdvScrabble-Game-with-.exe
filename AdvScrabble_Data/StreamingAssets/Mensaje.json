@@ -1,0 +1,43 @@
+{
+"Mensaje" :[
+	{
+		"id_usuario" : 1,
+		"id_tipo_mensaje" : 1,
+		"id_mensaje" : 1,
+		"nombre" : "Pedido de vidas",
+		"descripcion" : "Un jugador le pide vidas a otro",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null,
+		"fecha_desde" : "2017-03-02",
+		"fecha_hasta" : "2017-04-01"
+	},
+	{
+		"id_usuario" : 1,
+		"id_tipo_mensaje" : 2,
+		"id_mensaje" : 1,
+		"nombre" : "Mayor Puntaje",
+		"descripcion" : "Llega al mayor puntaje semanal y recibiras una recompensa",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null,
+		"fecha_desde" : "2017-03-02",
+		"fecha_hasta" : "2017-04-01"
+	},
+	{
+		"id_usuario" : 1,
+		"id_tipo_mensaje" : 3,
+		"id_mensaje" : 1,
+		"nombre" : "Campeonato Semanal",
+		"descripcion" : "Se organizará un campeonato de competición entre jugadores. Accede a la copa con importante beneficios",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null,
+		"fecha_desde" : "2017-03-02",
+		"fecha_hasta" : "2017-04-01"
+	}
+]
+}

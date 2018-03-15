@@ -1,0 +1,37 @@
+{
+"Tablero" :[
+	{
+		"id_juego" : 1,
+		"id_mapa" : 1,
+		"id_pantalla" : 1,
+		"id_tablero" : 1,
+		"nombre" : "Tablero 9 x 9 cuadrado",
+		"descripcion" : "",
+		"ubicacion" : "ninguno",
+		"archivo" : "TableroPantalla1.png",
+		"type_size" : 1
+	},
+	{
+		"id_juego" : 1,
+		"id_mapa" : 1,
+		"id_pantalla" : 2,
+		"id_tablero" : 1,
+		"nombre" : "Tablero 9 x 9 cuadrado",
+		"descripcion" : "",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"type_size" : 1
+	},
+	{
+		"id_juego" : 1,
+		"id_mapa" : 1,
+		"id_pantalla" : 3,
+		"id_tablero" : 1,
+		"nombre" : "Tablero 13 x 13 cuadrado",
+		"descripcion" : "",
+		"ubicacion" : "ninguno",
+		"archivo" : "ninguno",
+		"type_size" : 3
+	}
+]
+}

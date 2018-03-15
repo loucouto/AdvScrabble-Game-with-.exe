@@ -1,0 +1,634 @@
+{
+  "Ficha": [
+    {
+      "id_juego": 1,
+      "id_ficha": 1,
+      "numero_ficha": 0,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha0-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 2,
+      "numero_ficha": 0,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha0-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 3,
+      "numero_ficha": 0,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha0-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 4,
+      "numero_ficha": 0,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha0-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 5,
+      "numero_ficha": 0,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha0-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 6,
+      "numero_ficha": 0,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha0-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 7,
+      "numero_ficha": 0,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha0-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 8,
+      "numero_ficha": 0,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha0-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 9,
+      "numero_ficha": 0,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha0-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 10,
+      "numero_ficha": 1,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha1-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 11,
+      "numero_ficha": 1,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha1-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 12,
+      "numero_ficha": 1,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha1-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 13,
+      "numero_ficha": 1,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha1-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 14,
+      "numero_ficha": 1,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha1-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 15,
+      "numero_ficha": 1,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha1-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 16,
+      "numero_ficha": 1,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha1-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 17,
+      "numero_ficha": 1,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha1-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 18,
+      "numero_ficha": 1,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha1-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 19,
+      "numero_ficha": 2,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha2-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 20,
+      "numero_ficha": 2,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha2-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 21,
+      "numero_ficha": 2,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha2-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 22,
+      "numero_ficha": 2,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha2-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 23,
+      "numero_ficha": 2,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha2-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 24,
+      "numero_ficha": 2,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha2-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 25,
+      "numero_ficha": 2,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha2-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 26,
+      "numero_ficha": 2,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha2-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 27,
+      "numero_ficha": 2,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha2-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 28,
+      "numero_ficha": 3,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha3-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 29,
+      "numero_ficha": 3,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha3-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 30,
+      "numero_ficha": 3,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha3-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 31,
+      "numero_ficha": 3,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha3-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 32,
+      "numero_ficha": 3,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha3-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 33,
+      "numero_ficha": 3,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha3-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 34,
+      "numero_ficha": 3,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha3-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 35,
+      "numero_ficha": 3,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha3-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 36,
+      "numero_ficha": 3,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha3-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 37,
+      "numero_ficha": 4,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha4-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 38,
+      "numero_ficha": 4,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha4-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 39,
+      "numero_ficha": 4,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha4-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 40,
+      "numero_ficha": 4,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha4-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 41,
+      "numero_ficha": 4,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha4-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 42,
+      "numero_ficha": 4,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha4-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 43,
+      "numero_ficha": 4,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha4-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 44,
+      "numero_ficha": 4,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha4-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 45,
+      "numero_ficha": 4,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha4-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 46,
+      "numero_ficha": 5,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha5-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 47,
+      "numero_ficha": 5,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha5-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 48,
+      "numero_ficha": 5,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha5-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 49,
+      "numero_ficha": 5,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha5-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 50,
+      "numero_ficha": 5,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha5-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 51,
+      "numero_ficha": 5,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha5-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 52,
+      "numero_ficha": 5,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha5-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 53,
+      "numero_ficha": 5,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha5-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 54,
+      "numero_ficha": 5,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha5-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 55,
+      "numero_ficha": 6,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha6-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 56,
+      "numero_ficha": 6,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha6-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 57,
+      "numero_ficha": 6,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha6-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 58,
+      "numero_ficha": 6,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha6-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 59,
+      "numero_ficha": 6,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha6-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 60,
+      "numero_ficha": 6,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha6-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 61,
+      "numero_ficha": 6,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha6-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 62,
+      "numero_ficha": 6,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha6-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 63,
+      "numero_ficha": 6,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha6-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 64,
+      "numero_ficha": 7,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha7-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 65,
+      "numero_ficha": 7,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha7-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 66,
+      "numero_ficha": 7,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha7-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 67,
+      "numero_ficha": 7,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha7-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 68,
+      "numero_ficha": 7,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha7-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 69,
+      "numero_ficha": 7,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha7-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 70,
+      "numero_ficha": 7,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha7-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 71,
+      "numero_ficha": 7,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha7-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 72,
+      "numero_ficha": 7,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha7-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 73,
+      "numero_ficha": 8,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha8-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 74,
+      "numero_ficha": 8,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha8-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 75,
+      "numero_ficha": 8,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha8-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 76,
+      "numero_ficha": 8,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha8-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 77,
+      "numero_ficha": 8,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha8-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 78,
+      "numero_ficha": 8,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha8-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 79,
+      "numero_ficha": 8,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha8-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 80,
+      "numero_ficha": 8,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha8-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 81,
+      "numero_ficha": 8,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha8-9"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 82,
+      "numero_ficha": 9,
+      "puntaje_ficha": 1,
+      "archivo": "Ficha9-1"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 83,
+      "numero_ficha": 9,
+      "puntaje_ficha": 2,
+      "archivo": "Ficha9-2"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 84,
+      "numero_ficha": 9,
+      "puntaje_ficha": 3,
+      "archivo": "Ficha9-3"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 85,
+      "numero_ficha": 9,
+      "puntaje_ficha": 4,
+      "archivo": "Ficha9-4"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 86,
+      "numero_ficha": 9,
+      "puntaje_ficha": 5,
+      "archivo": "Ficha9-5"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 87,
+      "numero_ficha": 9,
+      "puntaje_ficha": 6,
+      "archivo": "Ficha9-6"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 88,
+      "numero_ficha": 9,
+      "puntaje_ficha": 7,
+      "archivo": "Ficha9-7"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 89,
+      "numero_ficha": 9,
+      "puntaje_ficha": 8,
+      "archivo": "Ficha9-8"
+    },
+    {
+      "id_juego": 1,
+      "id_ficha": 90,
+      "numero_ficha": 9,
+      "puntaje_ficha": 9,
+      "archivo": "Ficha9-9"
+    }
+  ]
+}

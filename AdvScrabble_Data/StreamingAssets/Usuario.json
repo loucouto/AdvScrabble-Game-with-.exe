@@ -1,0 +1,38 @@
+[
+	{
+		"id_juego" : 1,
+		"id_usuario" : 1,
+		"nombre_completo" : "GamerMasterOne",
+		"descripcion" : "Primer Jugador de Prueba",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"contrasenia" : "ninguna",
+		"nombre_usuario" : "GamerMasterOne",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_juego" : 1,
+		"id_usuario" : 2,
+		"nombre_completo" : "Appi",
+		"descripcion" : "Segundo Jugador de Prueba",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"contrasenia" : "ninguna",
+		"nombre_usuario" : "Appi",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	},
+	{
+		"id_juego" : 1,
+		"id_usuario" : 3,
+		"nombre_completo" : "Butterfly",
+		"descripcion" : "Tercer Jugador de Prueba",
+		"ubicacion" : "ninguna",
+		"archivo" : "ninguna",
+		"contrasenia" : "ninguna",
+		"nombre_usuario" : "Butterfly",
+		"fecha_hecho" : "2017-03-02",
+		"fecha_baja" : null
+	}
+]
